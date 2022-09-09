@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Seweryn. Fullstack Developer.  Fanboy.
+<h1>👋 Hi, I’m Seweryn. Fullstack Developer.  Fanboy.</h1>
 
 <div align="center">
     <center><a href="https://twitter.com/sevydope"><img src="https://img.shields.io/badge/-@sevydope-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
