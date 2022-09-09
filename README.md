@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Seweryn. Fullstack Developer.  Fanboy.
 
-<p>
-    <a href="https://twitter.com/sevydope"><img src="https://img.shields.io/badge/-@sevydope-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<div align="center">
+    <center><a href="https://twitter.com/sevydope"><img src="https://img.shields.io/badge/-@sevydope-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
     <a href="https://stackoverflow.com/users/15136864/sevy"><img src="https://img.shields.io/badge/sevy-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"></a>
     <a href="https://www.linkedin.com/in/seweryn-piorkowski/"><img src="https://img.shields.io/badge/-Seweryn_Piórkowski-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
-</p>
+</div>
 
 <h3>🛠 Tools</h3>
 
